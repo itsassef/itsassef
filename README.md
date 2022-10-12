@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @itsassef
-- 👀 I’m interested in developing PHP apps
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m developing PHP apps since 2016. Love Laravel, Node and ReactJS.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me asifmailed@gmail.com
 
 <!---
 itsassef/itsassef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
